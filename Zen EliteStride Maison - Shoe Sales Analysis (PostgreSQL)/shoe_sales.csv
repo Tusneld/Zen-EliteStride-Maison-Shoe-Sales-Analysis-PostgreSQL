@@ -1,0 +1,501 @@
+sale_date,product,category,color,brand,country,quantity,payment_type
+2026-05-19,monk straps,Formal,Red,Nike,Uganda,7,Bank Transfer
+2026-06-26,loafers,Formal,Black,nike,Uganda,1,Card
+2026-05-30,Derby,FORMAL,Green,clarks,Nigeria,7,Bank Transfer
+2026-07-11,boots,UTILITY,Black,nike,Canada,6,Bank Transfer
+2026-04-18,BOOTS,casual,Red,CLARKS,UK,6,Bank Transfer
+2026-03-12,Canvas,Utility,Blue,NIKE,Ghana,6,Card
+2026-06-18,canvas,Formal,Green,clarks,USA,13,Cash
+2026-07-09,monk straps ,Formal,Brown,timberland,USA,12,Cash
+2026-01-16,Derby,formal,Green,clarks,Australia,10,Cash
+2026-06-09,OXFORD,Formal,Black,clarks,Cyprus,15,Mobile Money
+2026-04-20,BOOTS,Formal,Brown,Clarks,India,8,Bank Transfer
+2026-03-16,loafers,casual,Green,Clarks,Australia,9,Cash
+2026-05-04,BROGUES ,UTILITY,Green,Nike,Germany,14,Bank Transfer
+2026-01-09,oxford,formal,Green,timberland,Nigeria,4,Card
+2026-06-26,SLIPPERS,FORMAL,Red,ZARA,Uganda,6,Card
+2026-07-23,derby,Casual,Green,Zara,Philippines,10,Cash
+2026-04-13,boots,OPEN,Red,Steve Madden,Nigeria,7,Bank Transfer
+2026-05-20,DERBY,CASUAL,Blue,CLARKS,UK,7,Mobile Money
+2026-03-31,Oxford,OPEN,Black,clarks,UK,11,Cash
+2026-05-05,boots,UTILITY,Red,NIKE,Zimbabwe,6,Cash
+2026-08-07,Monk Straps,Formal,Red,CLARKS,Germany,8,Card
+2026-07-14,BROGUES,Casual,Green,Steve Madden,Australia,5,Mobile Money
+2026-01-12,OXFORD,formal,Green,STEVE MADDEN,Zimbabwe,15,Card
+2026-01-28,Canvas,FORMAL,Green,steve madden,Cyprus,1,Card
+2026-01-13,Boots,CASUAL,Blue,Clarks,Ghana,12,Cash
+2026-03-13,loafers,UTILITY,Green,Steve Madden,India,9,Mobile Money
+2026-07-11,oxford,Formal,Green,clarks,Ghana,5,Mobile Money
+2026-03-10,loafers,CASUAL,Green,Clarks,Zimbabwe,8,Bank Transfer
+2026-04-30,OXFORD,formal,Red,zara,Nigeria,2,Bank Transfer
+2026-02-15,MONK STRAPS,Formal,Blue,ZARA,Albania,7,Cash
+2026-07-16,brogues,formal,Red,STEVE MADDEN,Germany,12,Mobile Money
+2026-06-12,Canvas ,formal,Blue,CLARKS,Zimbabwe,15,Card
+2026-08-02,boots,FORMAL,Red,Zara,Uganda,7,Mobile Money
+2026-03-30,BROGUES,formal,Black,nike,Cyprus,10,Bank Transfer
+2026-04-20,monk straps,Open,Green,nike,Philippines,7,Bank Transfer
+2026-07-25,boots,formal,Red,timberland,Canada,5,Card
+2026-06-03,Boots,FORMAL,Red,Clarks,India,11,Bank Transfer
+2026-07-23,slippers,CASUAL,Red,zara,Zimbabwe,10,Bank Transfer
+2026-07-25,loafers,Open,Green,CLARKS,USA,10,Mobile Money
+2026-06-03,OXFORD,Formal,Red,STEVE MADDEN,Germany,13,Bank Transfer
+2026-03-09,brogues,formal,Blue,clarks,USA,7,Cash
+2026-02-19,Boots,open,Green,Nike,Nigeria,14,Cash
+2026-07-17,OXFORD,OPEN,Green,CLARKS,Ghana,13,Mobile Money
+2026-04-15,Loafers,Open,Red,Nike,Philippines,3,Card
+2026-04-19,Boots,formal,Green,steve madden,UK,1,Bank Transfer
+2026-05-23,BROGUES,Formal,Red,CLARKS,Germany,9,Mobile Money
+2026-08-03,Boots,FORMAL,Green,zara,Albania,5,Mobile Money
+2026-03-05,OXFORD,CASUAL,Black,NIKE,USA,11,Mobile Money
+2026-03-29,LOAFERS,formal,Black,zara,USA,6,Card
+2026-06-27,BOOTS,UTILITY,Blue,zara,Kenya,1,Mobile Money
+2026-08-06,Canvas ,Casual,Red,clarks,Albania,4,Bank Transfer
+2026-01-29,oxford,UTILITY,Black,clarks,India,5,Cash
+2026-03-05,monk straps,Formal,Black,zara,Uganda,4,Card
+2026-02-16,brogues,formal,Black,Zara,Nigeria,1,Mobile Money
+2026-03-28,Canvas,formal,Red,nike,Zimbabwe,4,Bank Transfer
+2026-04-02,Monk Straps,CASUAL,Black,CLARKS,Canada,5,Card
+2026-06-02,CANVAS,OPEN,Black,STEVE MADDEN,Cyprus,2,Cash
+2026-01-23,SLIPPERS,formal,Red,NIKE,Nigeria,1,Bank Transfer
+2026-07-27,BROGUES,Casual,Green,Nike,Uganda,15,Bank Transfer
+2026-06-23,boots,formal,Green,STEVE MADDEN,UK,11,Mobile Money
+2026-04-09,Oxford,utility,Red,Clarks,Ghana,10,Card
+2026-06-21,canvas,FORMAL,Brown,STEVE MADDEN,Canada,9,Card
+2026-02-28,Loafers,formal,Blue,nike,Uganda,1,Bank Transfer
+2026-06-24,OXFORD,Formal,Green,ZARA,Cyprus,8,Bank Transfer
+2026-03-31,oxford,CASUAL,Green,STEVE MADDEN,Germany,5,Bank Transfer
+2026-04-12,derby,Casual,Black,TIMBERLAND,Nigeria,14,Card
+2026-05-19,MONK STRAPS,OPEN,Brown,clarks,UK,14,Mobile Money
+2026-01-06,BROGUES,FORMAL,Black,clarks,Zimbabwe,8,Mobile Money
+2026-06-06,Loafers,FORMAL,Black,CLARKS,Philippines,7,Bank Transfer
+2026-06-09,brogues,open,Green,clarks,Philippines,7,Mobile Money
+2026-03-04,monk straps,Formal,Green,timberland,Ghana,8,Cash
+2026-07-10,derby,Casual,Green,Clarks,UK,9,Mobile Money
+2026-03-08,boots,FORMAL,Brown,Zara,UK,5,Card
+2026-06-01,boots,formal,Blue,STEVE MADDEN,Philippines,9,Cash
+2026-02-24,Oxford,casual,Brown,CLARKS,Germany,7,Card
+2026-05-06,Oxford,formal,Green,clarks,Uganda,13,Cash
+2026-02-05,LOAFERS,formal,Blue,ZARA,Ghana,8,Card
+2026-03-03,DERBY,casual,Brown,timberland,Philippines,11,Mobile Money
+2026-04-21,BROGUES,Formal,Green,CLARKS,Australia,11,Card
+2026-07-16,Slippers,formal,Black,TIMBERLAND,Kenya,15,Card
+2026-03-09,Canvas,casual,Brown,Zara,Zimbabwe,10,Bank Transfer
+2026-04-05,boots,Utility,Brown,ZARA,Cyprus,4,Bank Transfer
+2026-03-16,BOOTS,Casual,Green,STEVE MADDEN,India,7,Mobile Money
+2026-01-19,Derby,UTILITY,Blue,steve madden,Albania,7,Cash
+2026-06-14,Boots,Formal,Green,ZARA,Nigeria,13,Mobile Money
+2026-05-02,Loafers,UTILITY,Green,timberland,Albania,12,Bank Transfer
+2026-02-04,BOOTS,casual,Red,TIMBERLAND,Uganda,14,Cash
+2026-02-14,oxford,Formal,Brown,clarks,Albania,8,Cash
+2026-03-18,boots,formal,Green,CLARKS,Cyprus,3,Bank Transfer
+2026-03-09,Derby,UTILITY,Black,Steve Madden,Ghana,8,Card
+2026-03-30,Slippers,Utility,Green,zara,Ghana,14,Bank Transfer
+2026-07-01,BROGUES,formal,Green,STEVE MADDEN,Nigeria,7,Mobile Money
+2026-08-12,LOAFERS,utility,Brown,CLARKS,UK,5,Cash
+2026-01-11,Oxford,Formal,Green,STEVE MADDEN,Nigeria,14,Cash
+2026-06-30,slippers,Open,Red,Clarks,USA,6,Cash
+2026-01-22,Slippers,CASUAL,Red,nike,Nigeria,7,Card
+2026-07-20,Loafers,formal,Green,Clarks,Canada,9,Bank Transfer
+2026-04-06,monk straps,FORMAL,Blue,Steve Madden,Ghana,10,Card
+2026-01-12,brogues,Casual,Red,nike,Zimbabwe,6,Card
+2026-06-24,Oxford,open,Brown,clarks,UK,12,Card
+2026-03-20,boots,casual,Brown,ZARA,India,4,Bank Transfer
+2026-07-13,MONK STRAPS,Formal,Black,Zara,Ghana,8,Mobile Money
+2026-01-18,DERBY,FORMAL,Blue,CLARKS,Uganda,8,Cash
+2026-06-14,slippers,Utility,Brown,ZARA,UK,6,Card
+2026-06-12,MONK STRAPS,open,Black,timberland,Uganda,9,Card
+2026-08-06,Boots,Casual,Brown,zara,UK,2,Mobile Money
+2026-01-18,brogues,Formal,Brown,ZARA,Australia,4,Cash
+2026-05-02,monk straps,Formal,Red,ZARA,UK,15,Cash
+2026-04-18,Boots,Utility,Red,zara,USA,15,Bank Transfer
+2026-02-21,derby,formal,Green,Clarks,Philippines,8,Card
+2026-06-20,Monk Straps,CASUAL,Brown,NIKE,UK,7,Card
+2026-04-25,Slippers,Casual,Red,Clarks,Cyprus,8,Bank Transfer
+2026-05-30,Monk Straps,FORMAL,Red,Steve Madden,Ghana,13,Cash
+2026-02-28,OXFORD,FORMAL,Green,nike,UK,14,Bank Transfer
+2026-05-12,Monk Straps,FORMAL,Green,clarks,Kenya,12,Cash
+2026-02-22,CANVAS,OPEN,Green,CLARKS,India,10,Card
+2026-05-04,brogues,formal,Blue,CLARKS,Philippines,6,Card
+2026-06-24,monk straps,OPEN,Brown,Zara,Uganda,13,Card
+2026-03-20,Derby,FORMAL,Green,CLARKS,Nigeria,4,Mobile Money
+2026-05-20,Boots,Formal,Black,CLARKS,UK,12,Bank Transfer
+2026-08-14,Monk Straps,Formal,Green,zara,USA,5,Mobile Money
+2026-01-27,loafers,utility,Red,Nike,Cyprus,7,Bank Transfer
+2026-06-17,Loafers,FORMAL,Brown,timberland,UK,15,Bank Transfer
+2026-06-02,oxford,Formal,Red,CLARKS,India,15,Bank Transfer
+2026-01-28,DERBY,Formal,Red,CLARKS,Philippines,5,Bank Transfer
+2026-07-02,SLIPPERS,casual,Blue,steve madden,Albania,3,Cash
+2026-04-09,OXFORD,FORMAL,Blue,Nike,Uganda,14,Cash
+2026-02-03,BROGUES,FORMAL,Black,clarks,Germany,7,Cash
+2026-07-19,derby,utility,Brown,ZARA,Canada,8,Cash
+2026-07-07,Boots,formal,Green,zara,Canada,3,Card
+2026-02-12,oxford,FORMAL,Brown,zara,Kenya,10,Card
+2026-01-03,derby,FORMAL,Red,clarks,Philippines,15,Mobile Money
+2026-05-21,LOAFERS,FORMAL,Green,Timberland,Kenya,8,Cash
+2026-07-30,boots,CASUAL,Green,STEVE MADDEN,Cyprus,9,Mobile Money
+2026-07-20,Slippers,Formal,Black,Zara,Zimbabwe,10,Bank Transfer
+2026-04-09,Brogues,Formal,Red,Nike,Australia,6,Card
+2026-05-31,canvas,Formal,Blue,zara,Philippines,7,Card
+2026-07-16,boots,Open,Red,steve madden,Ghana,15,Cash
+2026-06-30,Monk Straps,formal,Blue,Zara,Australia,11,Bank Transfer
+2026-05-14,canvas,Casual,Red,nike,Nigeria,8,Card
+2026-08-10,Monk Straps,formal,Green,ZARA,Germany,8,Bank Transfer
+2026-01-28,canvas,UTILITY,Brown,nike,Australia,2,Mobile Money
+2026-02-16,OXFORD,FORMAL,Red,CLARKS,Ghana,12,Card
+2026-07-26,CANVAS,Formal,Blue,ZARA,Kenya,13,Cash
+2026-03-28,Loafers,Casual,Black,timberland,Kenya,3,Bank Transfer
+2026-04-18,Canvas,formal,Black,Zara,Cyprus,11,Card
+2026-06-21,BROGUES,FORMAL,Red,zara,UK,3,Bank Transfer
+2026-02-07,Oxford,open,Green,zara,UK,14,Card
+2026-02-12,Slippers,casual,Brown,Clarks,UK,1,Cash
+2026-05-24,BROGUES,Formal,Green,Steve Madden,Kenya,10,Bank Transfer
+2026-07-07,MONK STRAPS,FORMAL,Green,NIKE,Canada,7,Bank Transfer
+2026-04-13,oxford,utility,Brown,Zara,Philippines,6,Mobile Money
+2026-06-26,BROGUES,UTILITY,Brown,NIKE,India,8,Bank Transfer
+2026-03-11,boots,Formal,Green,ZARA,Canada,13,Card
+2026-06-21,canvas,formal,Black,timberland,Nigeria,11,Card
+2026-06-06,brogues,formal,Brown,ZARA,Ghana,8,Mobile Money
+2026-01-02,loafers,FORMAL,Black,STEVE MADDEN,Cyprus,13,Mobile Money
+2026-01-02,MONK STRAPS,UTILITY,Blue,zara,Nigeria,12,Cash
+2026-03-25,BOOTS,casual,Green,clarks,India,1,Card
+2026-06-14,LOAFERS,FORMAL,Red,Clarks,UK,10,Mobile Money
+2026-04-12,MONK STRAPS,CASUAL,Red,STEVE MADDEN,UK,15,Cash
+2026-03-05,Slippers,Formal,Brown,Clarks,Canada,3,Mobile Money
+2026-01-06,BOOTS,CASUAL,Blue,STEVE MADDEN,Nigeria,1,Bank Transfer
+2026-07-15,loafers,CASUAL,Red,CLARKS,Ghana,9,Cash
+2026-05-05,Derby,UTILITY,Black,ZARA,Cyprus,13,Bank Transfer
+2026-06-14,Slippers,Open,Black,Clarks,Philippines,10,Card
+2026-06-06,Monk Straps,Formal,Green,Nike,Zimbabwe,10,Bank Transfer
+2026-07-17,CANVAS,formal,Brown,zara,USA,15,Card
+2026-04-28,DERBY,casual,Red,zara,Australia,9,Mobile Money
+2026-06-25,BROGUES,casual,Brown,steve madden,Zimbabwe,14,Cash
+2026-04-08,Brogues,Formal,Black,CLARKS,Ghana,14,Mobile Money
+2026-08-12,Canvas,FORMAL,Black,Zara,USA,10,Card
+2026-02-19,BROGUES,casual,Green,zara,Australia,15,Bank Transfer
+2026-06-24,derby,CASUAL,Blue,TIMBERLAND,Cyprus,5,Mobile Money
+2026-02-04,Derby,Formal,Brown,TIMBERLAND,Cyprus,15,Bank Transfer
+2026-01-11,Canvas,casual,Black,timberland,Philippines,13,Cash
+2026-08-07,BROGUES,open,Green,timberland,Nigeria,9,Cash
+2026-04-11,derby,Utility,Black,clarks,Philippines,9,Card
+2026-01-04,Slippers,CASUAL,Green,CLARKS,Zimbabwe,9,Card
+2026-03-08,CANVAS,Formal,Blue,TIMBERLAND,Australia,3,Cash
+2026-03-25,brogues,casual,Brown,zara,Ghana,2,Mobile Money
+2026-05-23,BOOTS,UTILITY,Red,STEVE MADDEN,India,6,Bank Transfer
+2026-05-11,SLIPPERS,Open,Brown,ZARA,USA,4,Card
+2026-07-08,slippers,formal,Black,zara,Germany,7,Card
+2026-03-03,loafers,CASUAL,Blue,Zara,Canada,14,Card
+2026-03-13,loafers,UTILITY,Red,nike,Albania,12,Bank Transfer
+2026-08-05,DERBY,formal,Red,zara,UK,11,Card
+2026-06-02,slippers,Utility,Green,ZARA,UK,4,Bank Transfer
+2026-01-17,OXFORD,Formal,Red,Nike,Zimbabwe,4,Bank Transfer
+2026-07-07,DERBY,FORMAL,Black,Zara,Germany,3,Card
+2026-05-23,BROGUES,CASUAL,Brown,Steve Madden,Australia,15,Card
+2026-02-19,monk straps,UTILITY,Blue,Timberland,Australia,9,Card
+2026-04-06,canvas,open,Blue,zara,USA,12,Bank Transfer
+2026-03-24,BROGUES,open,Blue,Zara,Ghana,5,Cash
+2026-04-05,BOOTS,FORMAL,Brown,Clarks,Cyprus,4,Mobile Money
+2026-07-20,MONK STRAPS,Utility,Blue,ZARA,Kenya,10,Card
+2026-07-18,LOAFERS,OPEN,Red,Timberland,Ghana,4,Mobile Money
+2026-08-14,brogues,CASUAL,Green,CLARKS,USA,1,Bank Transfer
+2026-02-01,Monk Straps,FORMAL,Blue,Clarks,Germany,13,Card
+2026-03-13,loafers,open,Brown,CLARKS,Kenya,7,Card
+2026-06-14,Derby,FORMAL,Brown,clarks,Australia,10,Cash
+2026-01-25,MONK STRAPS,FORMAL,Brown,ZARA,Zimbabwe,5,Cash
+2026-03-27,Boots,Casual,Red,CLARKS,Australia,2,Mobile Money
+2026-06-25,derby,CASUAL,Brown,clarks,UK,8,Card
+2026-07-20,Brogues,FORMAL,Brown,ZARA,India,4,Card
+2026-01-24,loafers,Casual,Red,STEVE MADDEN,India,10,Card
+2026-04-07,BROGUES,Utility,Green,CLARKS,Zimbabwe,12,Bank Transfer
+2026-04-05,Boots,Formal,Green,ZARA,Uganda,4,Card
+2026-03-10,Boots,Formal,Brown,zara,USA,6,Cash
+2026-05-08,brogues,FORMAL,Red,NIKE,Canada,4,Card
+2026-06-08,Derby,formal,Green,TIMBERLAND,Uganda,5,Card
+2026-03-16,loafers,CASUAL,Green,Clarks,USA,5,Card
+2026-06-20,canvas,OPEN,Black,TIMBERLAND,Kenya,11,Bank Transfer
+2026-07-01,canvas,Open,Black,Steve Madden,Uganda,3,Bank Transfer
+2026-02-08,monk straps,FORMAL,Green,CLARKS,UK,4,Card
+2026-06-14,Oxford,casual,Blue,NIKE,Philippines,8,Cash
+2026-05-06,Canvas,open,Red,ZARA,Uganda,8,Cash
+2026-02-27,boots,formal,Blue,Zara,Nigeria,8,Cash
+2026-05-09,derby,UTILITY,Red,zara,Uganda,6,Card
+2026-03-02,boots,casual,Brown,Timberland,Canada,4,Mobile Money
+2026-08-11,Monk Straps,Formal,Blue,ZARA,Australia,14,Mobile Money
+2026-01-30,MONK STRAPS,FORMAL,Green,NIKE,Kenya,7,Mobile Money
+2026-04-29,Brogues,FORMAL,Brown,TIMBERLAND,India,8,Bank Transfer
+2026-02-01,Oxford,Formal,Black,Clarks,USA,12,Card
+2026-01-15,slippers,Formal,Brown,steve madden,UK,8,Card
+2026-05-15,OXFORD,open,Red,NIKE,Zimbabwe,11,Cash
+2026-08-05,BOOTS,UTILITY,Brown,ZARA,Philippines,2,Mobile Money
+2026-04-12,Slippers,formal,Green,Steve Madden,Kenya,7,Bank Transfer
+2026-02-08,Slippers,formal,Blue,ZARA,USA,1,Mobile Money
+2026-03-09,derby,utility,Blue,NIKE,Albania,11,Cash
+2026-06-09,BROGUES,CASUAL,Brown,nike,Ghana,14,Bank Transfer
+2026-04-08,SLIPPERS,Formal,Brown,zara,Ghana,4,Cash
+2026-05-06,Boots,FORMAL,Blue,CLARKS,Cyprus,5,Card
+2026-07-25,Canvas,formal,Brown,Clarks,Nigeria,5,Mobile Money
+2026-06-12,derby,Formal,Green,ZARA,USA,15,Bank Transfer
+2026-06-21,BOOTS,Formal,Brown,Clarks,USA,14,Card
+2026-04-28,loafers,open,Blue,TIMBERLAND,Uganda,6,Mobile Money
+2026-07-13,Derby,casual,Brown,zara,Zimbabwe,12,Cash
+2026-01-01,slippers,Casual,Black,clarks,USA,9,Cash
+2026-05-29,boots,Utility,Red,ZARA,India,7,Card
+2026-02-13,brogues,casual,Blue,zara,Philippines,13,Cash
+2026-05-05,MONK STRAPS,Utility,Red,clarks,USA,8,Bank Transfer
+2026-01-19,loafers,FORMAL,Black,NIKE,UK,6,Cash
+2026-07-21,Oxford,Formal,Green,NIKE,USA,13,Bank Transfer
+2026-06-30,Boots,Formal,Green,Zara,USA,7,Bank Transfer
+2026-08-10,Oxford,Open,Green,nike,Ghana,9,Bank Transfer
+2026-04-10,Derby,UTILITY,Brown,steve madden,Canada,3,Bank Transfer
+2026-06-07,MONK STRAPS,OPEN,Green,Timberland,UK,11,Mobile Money
+2026-06-27,CANVAS,Casual,Green,Clarks,India,15,Cash
+2026-05-25,monk straps,formal,Green,Zara,UK,9,Card
+2026-08-02,Monk Straps,formal,Red,Steve Madden,USA,1,Mobile Money
+2026-05-10,CANVAS,Formal,Blue,Nike,India,1,Bank Transfer
+2026-02-18,OXFORD,UTILITY,Brown,Steve Madden,Philippines,7,Cash
+2026-04-14,Monk Straps,FORMAL,Blue,Clarks,Uganda,13,Card
+2026-02-16,Oxford,FORMAL,Blue,CLARKS,Ghana,15,Card
+2026-03-10,Oxford,Formal,Brown,ZARA,Canada,9,Mobile Money
+2026-02-07,monk straps,UTILITY,Blue,clarks,Australia,15,Cash
+2026-01-31,Derby,formal,Green,zara,Albania,15,Bank Transfer
+2026-03-17,Slippers,FORMAL,Blue,Zara,India,13,Mobile Money
+2026-02-24,Derby,open,Red,Clarks,Nigeria,6,Bank Transfer
+2026-01-19,MONK STRAPS,open,Brown,Timberland,USA,6,Mobile Money
+2026-06-16,BOOTS,formal,Red,clarks,Cyprus,10,Card
+2026-06-17,DERBY,OPEN,Green,CLARKS,Germany,4,Mobile Money
+2026-07-24,Derby,open,Brown,Nike,Albania,7,Mobile Money
+2026-05-27,Oxford,Open,Blue,clarks,USA,10,Card
+2026-02-13,derby,formal,Red,TIMBERLAND,UK,10,Card
+2026-01-31,Loafers,formal,Brown,Clarks,Nigeria,15,Mobile Money
+2026-04-19,Loafers,open,Green,zara,Canada,1,Card
+2026-03-24,Canvas,open,Black,timberland,Uganda,2,Cash
+2026-08-01,Oxford,OPEN,Blue,Zara,Zimbabwe,12,Cash
+2026-06-05,LOAFERS,formal,Brown,NIKE,Cyprus,15,Bank Transfer
+2026-06-17,Derby,FORMAL,Blue,Timberland,Cyprus,13,Mobile Money
+2026-03-29,slippers,open,Green,clarks,Uganda,3,Cash
+2026-07-05,MONK STRAPS,Formal,Blue,Timberland,Albania,3,Cash
+2026-03-16,Slippers,FORMAL,Red,Clarks,Ghana,12,Mobile Money
+2026-06-26,canvas,Formal,Blue,zara,Nigeria,8,Cash
+2026-03-30,brogues,open,Blue,TIMBERLAND,Albania,4,Bank Transfer
+2026-03-13,Derby,Casual,Green,clarks,India,9,Card
+2026-01-09,canvas,FORMAL,Black,CLARKS,Nigeria,7,Cash
+2026-06-01,canvas,Formal,Brown,CLARKS,Ghana,8,Bank Transfer
+2026-05-26,Brogues,formal,Brown,clarks,Kenya,6,Bank Transfer
+2026-02-06,Canvas,Formal,Black,CLARKS,Canada,3,Bank Transfer
+2026-03-07,oxford,utility,Red,Clarks,USA,3,Cash
+2026-01-10,CANVAS,Formal,Red,clarks,Albania,7,Bank Transfer
+2026-04-13,SLIPPERS,Formal,Blue,CLARKS,Albania,5,Mobile Money
+2026-01-27,SLIPPERS,CASUAL,Red,Clarks,Germany,3,Card
+2026-04-26,Oxford,Open,Red,CLARKS,Uganda,12,Card
+2026-06-20,DERBY,Formal,Blue,clarks,UK,9,Card
+2026-04-12,slippers,formal,Red,Clarks,Australia,3,Mobile Money
+2026-01-06,oxford,formal,Red,Nike,Ghana,9,Bank Transfer
+2026-03-09,BROGUES,FORMAL,Blue,Zara,UK,2,Card
+2026-06-09,boots,Casual,Blue,Nike,Zimbabwe,6,Bank Transfer
+2026-03-10,OXFORD,Formal,Black,Timberland,Kenya,14,Card
+2026-01-15,loafers,Formal,Red,zara,Zimbabwe,7,Cash
+2026-02-20,boots,open,Red,Zara,Albania,8,Mobile Money
+2026-05-05,derby,Casual,Red,zara,UK,1,Mobile Money
+2026-02-15,LOAFERS,Formal,Red,clarks,India,9,Bank Transfer
+2026-05-21,derby,casual,Red,ZARA,India,1,Cash
+2026-08-02,Loafers,formal,Red,nike,Cyprus,14,Cash
+2026-06-02,slippers,CASUAL,Brown,timberland,Ghana,7,Card
+2026-02-23,BOOTS,utility,Black,CLARKS,Canada,6,Bank Transfer
+2026-06-04,Loafers,OPEN,Red,CLARKS,Philippines,6,Card
+2026-05-19,oxford,CASUAL,Red,Clarks,Philippines,4,Bank Transfer
+2026-06-27,monk straps,Utility,Blue,steve madden,India,12,Cash
+2026-01-03,BOOTS,FORMAL,Blue,CLARKS,USA,13,Card
+2026-06-02,loafers,formal,Red,zara,India,6,Cash
+2026-04-15,Brogues,Formal,Green,Nike,Kenya,13,Card
+2026-04-08,monk straps,Formal,Blue,nike,Cyprus,5,Cash
+2026-05-07,Loafers,Casual,Brown,Zara,Nigeria,2,Card
+2026-05-29,brogues,open,Red,timberland,Cyprus,7,Card
+2026-03-31,Monk Straps,CASUAL,Blue,NIKE,India,9,Cash
+2026-05-02,MONK STRAPS,Formal,Green,Zara,Uganda,6,Bank Transfer
+2026-04-30,Brogues,open,Black,TIMBERLAND,Kenya,10,Mobile Money
+2026-07-18,DERBY,open,Brown,TIMBERLAND,Albania,1,Card
+2026-05-10,Oxford,Casual,Brown,Zara,Uganda,13,Cash
+2026-02-17,loafers,Formal,Brown,Clarks,Ghana,9,Cash
+2026-06-05,Slippers,casual,Green,CLARKS,Canada,15,Cash
+2026-01-25,canvas,OPEN,Red,ZARA,Ghana,14,Card
+2026-05-09,monk straps,Open,Blue,clarks,USA,15,Card
+2026-03-22,OXFORD,FORMAL,Green,CLARKS,USA,14,Card
+2026-06-19,slippers,Casual,Blue,clarks,Albania,6,Cash
+2026-01-15,LOAFERS,UTILITY,Red,Nike,UK,15,Mobile Money
+2026-03-08,boots,Open,Black,STEVE MADDEN,Albania,6,Bank Transfer
+2026-03-15,canvas,casual,Brown,Zara,USA,10,Bank Transfer
+2026-04-12,Oxford,CASUAL,Blue,Clarks,Germany,4,Card
+2026-06-15,LOAFERS,Formal,Blue,zara,Germany,11,Mobile Money
+2026-07-11,MONK STRAPS,casual,Brown,ZARA,Zimbabwe,4,Bank Transfer
+2026-07-13,BROGUES,CASUAL,Blue,Nike,Germany,10,Cash
+2026-03-28,DERBY,Formal,Black,STEVE MADDEN,Germany,3,Cash
+2026-01-25,Derby,FORMAL,Black,Clarks,Ghana,5,Cash
+2026-04-16,monk straps,Formal,Black,nike,Zimbabwe,10,Mobile Money
+2026-01-19,Monk Straps,FORMAL,Green,Clarks,Albania,5,Mobile Money
+2026-04-30,Canvas,Casual,Green,clarks,India,7,Bank Transfer
+2026-05-25,Monk Straps,formal,Black,Nike,USA,5,Cash
+2026-01-20,Derby,CASUAL,Green,Clarks,Kenya,4,Cash
+2026-05-31,loafers,Formal,Red,CLARKS,Philippines,10,Bank Transfer
+2026-01-08,DERBY,casual,Green,CLARKS,Zimbabwe,12,Card
+2026-05-15,canvas,Formal,Red,clarks,USA,8,Bank Transfer
+2026-01-13,Oxford,formal,Brown,timberland,Uganda,4,Mobile Money
+2026-03-28,canvas,Open,Green,CLARKS,Philippines,13,Bank Transfer
+2026-07-16,boots,Formal,Brown,STEVE MADDEN,Philippines,14,Card
+2026-01-20,boots,UTILITY,Green,TIMBERLAND,Canada,1,Cash
+2026-07-24,brogues,formal,Red,STEVE MADDEN,India,15,Cash
+2026-06-07,Slippers,Casual,Green,clarks,Albania,13,Bank Transfer
+2026-01-24,canvas,formal,Blue,CLARKS,Cyprus,8,Bank Transfer
+2026-02-25,boots,UTILITY,Green,Zara,UK,8,Cash
+2026-04-30,brogues,utility,Black,nike,Cyprus,10,Mobile Money
+2026-01-03,loafers,casual,Blue,Clarks,Uganda,14,Cash
+2026-06-10,Loafers,open,Brown,ZARA,Kenya,1,Cash
+2026-02-27,Monk Straps,Casual,Red,TIMBERLAND,UK,11,Card
+2026-06-28,BOOTS,UTILITY,Blue,timberland,Uganda,8,Card
+2026-02-05,Monk Straps,UTILITY,Brown,clarks,India,13,Cash
+2026-04-17,slippers,UTILITY,Red,Timberland,UK,6,Bank Transfer
+2026-08-08,BROGUES,open,Red,Zara,Uganda,8,Bank Transfer
+2026-01-12,LOAFERS,Formal,Blue,Nike,USA,13,Mobile Money
+2026-07-15,monk straps,formal,Brown,ZARA,Australia,6,Bank Transfer
+2026-04-14,oxford,formal,Brown,nike,Philippines,5,Mobile Money
+2026-07-01,Derby,Open,Black,NIKE,Zimbabwe,4,Mobile Money
+2026-05-17,monk straps,UTILITY,Green,CLARKS,Australia,3,Bank Transfer
+2026-04-18,slippers,Formal,Blue,CLARKS,USA,5,Card
+2026-07-21,DERBY,formal,Green,zara,Ghana,4,Card
+2026-08-08,DERBY,CASUAL,Brown,CLARKS,USA,7,Card
+2026-04-02,LOAFERS,UTILITY,Green,CLARKS,USA,6,Card
+2026-07-28,Derby,FORMAL,Brown,zara,Cyprus,7,Cash
+2026-03-06,Loafers,Formal,Blue,Steve Madden,India,12,Bank Transfer
+2026-07-25,SLIPPERS,Casual,Green,Zara,India,10,Mobile Money
+2026-07-20,Loafers,formal,Brown,Clarks,UK,6,Card
+2026-03-25,derby,formal,Blue,timberland,UK,15,Cash
+2026-01-28,CANVAS,Formal,Red,Steve Madden,Zimbabwe,3,Mobile Money
+2026-04-05,slippers,Casual,Black,Timberland,Canada,1,Card
+2026-08-12,Canvas,FORMAL,Black,CLARKS,India,9,Bank Transfer
+2026-06-26,Oxford,Formal,Red,ZARA,Philippines,7,Card
+2026-05-28,monk straps,Formal,Brown,clarks,Germany,4,Cash
+2026-02-09,SLIPPERS,OPEN,Brown,Steve Madden,Cyprus,7,Card
+2026-03-05,BOOTS,Casual,Green,timberland,Kenya,10,Mobile Money
+2026-02-25,loafers,formal,Brown,CLARKS,USA,2,Mobile Money
+2026-06-10,brogues,CASUAL,Blue,CLARKS,UK,14,Card
+2026-01-10,canvas,Casual,Blue,clarks,Uganda,6,Mobile Money
+2026-07-17,OXFORD,Casual,Blue,TIMBERLAND,Uganda,5,Cash
+2026-02-20,Brogues,casual,Green,TIMBERLAND,Uganda,4,Bank Transfer
+2026-06-26,boots,Casual,Blue,Timberland,Nigeria,4,Bank Transfer
+2026-06-16,oxford,FORMAL,Blue,Nike,UK,10,Cash
+2026-06-12,Monk Straps,open,Black,Nike,Cyprus,14,Cash
+2026-06-28,Slippers,CASUAL,Green,timberland,USA,8,Mobile Money
+2026-01-09,CANVAS,Formal,Black,ZARA,Germany,3,Cash
+2026-07-05,Canvas,FORMAL,Black,Clarks,Zimbabwe,13,Bank Transfer
+2026-06-23,derby,FORMAL,Green,nike,Nigeria,8,Bank Transfer
+2026-03-09,Loafers,Casual,Green,timberland,Zimbabwe,6,Bank Transfer
+2026-01-21,Oxford,Formal,Red,zara,Australia,14,Cash
+2026-05-20,slippers,CASUAL,Blue,clarks,Ghana,1,Card
+2026-05-27,Canvas,FORMAL,Green,nike,Kenya,11,Mobile Money
+2026-05-26,DERBY,CASUAL,Black,clarks,Ghana,9,Bank Transfer
+2026-05-14,Brogues,formal,Green,ZARA,Kenya,2,Bank Transfer
+2026-01-15,monk straps,Formal,Brown,zara,Zimbabwe,9,Card
+2026-06-02,slippers,Formal,Brown,ZARA,Kenya,8,Card
+2026-05-31,Boots,FORMAL,Green,NIKE,UK,9,Bank Transfer
+2026-01-02,BOOTS,formal,Black,clarks,Canada,11,Card
+2026-01-25,OXFORD,Utility,Black,clarks,Kenya,8,Bank Transfer
+2026-03-31,Derby,open,Green,Zara,India,7,Cash
+2026-03-04,LOAFERS,Formal,Red,steve madden,Cyprus,8,Cash
+2026-04-05,Monk Straps,Utility,Red,zara,Kenya,13,Mobile Money
+2026-03-26,BROGUES,UTILITY,Brown,zara,Uganda,14,Card
+2026-04-30,MONK STRAPS,open,Brown,CLARKS,Cyprus,11,Mobile Money
+2026-01-07,BOOTS,Open,Green,Zara,Zimbabwe,14,Card
+2026-03-31,canvas,FORMAL,Red,nike,Cyprus,13,Bank Transfer
+2026-07-17,oxford,casual,Black,nike,Ghana,9,Mobile Money
+2026-04-22,oxford,Utility,Brown,TIMBERLAND,Zimbabwe,6,Mobile Money
+2026-07-07,Brogues,Utility,Blue,timberland,Philippines,12,Cash
+2026-03-18,Canvas,open,Green,NIKE,Canada,7,Bank Transfer
+2026-04-22,LOAFERS,utility,Blue,TIMBERLAND,Uganda,14,Mobile Money
+2026-05-17,Boots,OPEN,Blue,CLARKS,Zimbabwe,8,Mobile Money
+2026-02-14,Oxford,FORMAL,Red,ZARA,Germany,3,Bank Transfer
+2026-07-10,BOOTS,Formal,Red,Zara,Australia,15,Mobile Money
+2026-03-29,OXFORD,utility,Brown,Steve Madden,Ghana,5,Card
+2026-05-06,OXFORD,UTILITY,Green,Clarks,UK,2,Card
+2026-04-22,Canvas,casual,Black,ZARA,Canada,14,Cash
+2026-02-24,canvas,Formal,Brown,Timberland,Nigeria,5,Bank Transfer
+2026-05-13,brogues,formal,Blue,Clarks,India,13,Mobile Money
+2026-05-30,CANVAS,Formal,Green,timberland,UK,3,Bank Transfer
+2026-03-06,Slippers,Formal,Green,CLARKS,Albania,8,Card
+2026-08-01,slippers,Utility,Red,CLARKS,Albania,1,Mobile Money
+2026-01-30,derby,casual,Blue,steve madden,UK,5,Cash
+2026-07-05,Slippers,Casual,Green,Zara,India,8,Bank Transfer
+2026-04-22,derby,formal,Blue,Steve Madden,USA,4,Card
+2026-06-29,MONK STRAPS,Casual,Blue,Clarks,UK,4,Card
+2026-05-12,Brogues,casual,Black,Steve Madden,Zimbabwe,10,Card
+2026-02-09,Brogues,Formal,Red,Zara,Uganda,8,Cash
+2026-03-27,MONK STRAPS,CASUAL,Green,NIKE,UK,5,Bank Transfer
+2026-03-25,Brogues,casual,Red,timberland,Kenya,2,Card
+2026-07-06,canvas,Casual,Red,timberland,Kenya,6,Mobile Money
+2026-08-13,BROGUES,CASUAL,Blue,steve madden,Germany,7,Cash
+2026-06-28,boots,FORMAL,Green,zara,Australia,3,Card
+2026-02-27,monk straps,FORMAL,Brown,Clarks,Kenya,5,Bank Transfer
+2026-02-21,Derby,Open,Green,Clarks,USA,3,Bank Transfer
+2026-03-05,brogues,Open,Red,TIMBERLAND,Germany,7,Cash
+2026-05-02,derby,Casual,Brown,CLARKS,Australia,3,Bank Transfer
+2026-05-20,CANVAS,FORMAL,Green,Clarks,Germany,8,Cash
+2026-03-24,derby,casual,Red,zara,Philippines,3,Card
+2026-06-02,SLIPPERS,UTILITY,Blue,Steve Madden,USA,5,Cash
+2026-04-14,monk straps,casual,Red,Clarks,Germany,3,Mobile Money
+2026-06-16,Oxford,FORMAL,Black,clarks,Kenya,13,Card
+2026-01-01,boots,Casual,Red,clarks,India,12,Cash
+2026-07-04,MONK STRAPS,CASUAL,Black,CLARKS,USA,3,Card
+2026-06-15,oxford,OPEN,Brown,Clarks,Canada,2,Cash
+2026-06-05,Canvas,formal,Black,zara,Cyprus,14,Cash
+2026-06-20,Brogues,formal,Red,clarks,USA,4,Mobile Money
+2026-07-12,loafers,formal,Red,nike,Uganda,4,Cash
+2026-04-19,boots,Formal,Brown,Clarks,Nigeria,4,Card
+2026-08-11,slippers,OPEN,Black,NIKE,Uganda,1,Cash
+2026-08-04,Boots,formal,Red,ZARA,Kenya,5,Cash
+2026-06-27,BROGUES,Formal,Brown,zara,Australia,5,Cash
+2026-01-08,brogues,formal,Blue,steve madden,Ghana,3,Cash
+2026-07-23,Brogues,FORMAL,Blue,STEVE MADDEN,Germany,11,Bank Transfer
+2026-08-01,BOOTS,CASUAL,Black,clarks,Kenya,9,Mobile Money
+2026-07-20,Oxford,Formal,Blue,zara,USA,15,Bank Transfer
+2026-01-27,Monk Straps,CASUAL,Blue,zara,UK,10,Cash
+2026-03-02,Slippers,FORMAL,Brown,zara,Cyprus,5,Cash
+2026-05-18,Slippers,formal,Green,Clarks,Australia,9,Cash
+2026-07-17,MONK STRAPS,formal,Black,CLARKS,Albania,1,Cash
+2026-03-13,BOOTS,Casual,Blue,Clarks,Canada,8,Card
+2026-06-04,Oxford,open,Green,Clarks,India,8,Mobile Money
+2026-07-28,Derby,open,Red,CLARKS,Cyprus,9,Card
+2026-06-30,BROGUES,CASUAL,Black,NIKE,Philippines,10,Bank Transfer
+2026-08-04,canvas,open,Green,Clarks,Ghana,6,Card
+2026-06-04,Canvas,Formal,Green,NIKE,Ghana,4,Cash
+2026-03-18,MONK STRAPS,Formal,Black,Timberland,Nigeria,4,Bank Transfer
+2026-01-13,boots,FORMAL,Red,STEVE MADDEN,USA,14,Bank Transfer
+2026-06-02,Brogues,Formal,Green,STEVE MADDEN,USA,8,Card
+2026-01-22,BOOTS,FORMAL,Black,CLARKS,USA,3,Card
+2026-04-30,CANVAS,CASUAL,Red,CLARKS,Cyprus,10,Bank Transfer
+2026-03-09,loafers,UTILITY,Black,clarks,Ghana,7,Card
+2026-07-08,Slippers,Formal,Black,Nike,USA,6,Mobile Money
+2026-02-07,Derby,FORMAL,Black,nike,India,13,Mobile Money
+2026-01-26,MONK STRAPS,CASUAL,Black,Clarks,Nigeria,4,Bank Transfer
+2026-07-31,Slippers,Formal,Brown,zara,Zimbabwe,3,Bank Transfer
+2026-02-25,Canvas,CASUAL,Brown,zara,UK,13,Mobile Money
+2026-04-19,boots,casual,Brown,Nike,Kenya,9,Bank Transfer
+2026-05-25,loafers,Casual,Black,steve madden,India,10,Bank Transfer
+2026-01-09,Slippers,CASUAL,Green,Nike,USA,6,Cash
+2026-07-11,Derby,Casual,Black,Clarks,USA,15,Card
+2026-07-16,Slippers,FORMAL,Brown,clarks,Canada,11,Card
+2026-02-27,MONK STRAPS,casual,Brown,ZARA,Albania,9,Cash
+2026-05-31,derby,Formal,Brown,ZARA,Philippines,8,Mobile Money
+2026-05-03,boots,FORMAL,Red,Clarks,Nigeria,13,Mobile Money
+2026-07-12,Canvas,CASUAL,Red,ZARA,Cyprus,6,Cash
+2026-01-04,OXFORD,Casual,Brown,TIMBERLAND,India,3,Mobile Money
+2026-02-25,DERBY,Formal,Brown,Clarks,Germany,8,Bank Transfer
+2026-02-12,Monk Straps,formal,Black,zara,Albania,15,Mobile Money
+2026-07-15,monk straps,FORMAL,Red,Clarks,UK,2,Bank Transfer
+2026-04-25,brogues,Formal,Red,clarks,Germany,10,Mobile Money
+2026-01-23,Loafers,Formal,Red,NIKE,India,5,Bank Transfer
+2026-03-14,DERBY,Formal,Brown,Zara,Canada,15,Cash
+2026-02-11,Canvas,formal,Black,steve madden,Zimbabwe,15,Cash
+2026-05-12,BOOTS,Open,Red,Clarks,Nigeria,10,Card
+2026-02-26,Canvas,Open,Red,CLARKS,Canada,5,Bank Transfer
+2026-04-21,Derby,OPEN,Brown,TIMBERLAND,India,5,Cash
+2026-06-25,loafers,open,Black,Zara,Uganda,8,Bank Transfer
+2026-06-02,oxford,FORMAL,Green,steve madden,Kenya,3,Bank Transfer
+2026-06-11,canvas,CASUAL,Green,CLARKS,Nigeria,5,Mobile Money
+2026-07-15,Derby,casual,Red,CLARKS,Germany,4,Bank Transfer
