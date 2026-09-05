@@ -39,14 +39,13 @@ procedure, and privilege management (see `full_analysis.sql`, Section 4).
 - **USA, UK, and Ghana** are the top three markets by revenue; Albania, Canada, and Australia trail furthest behind.
 
 Full reasoning and all supporting numbers are in `full_analysis.sql`
-(Business Question 8) and in the query results for Questions 1–7.
+(Business Question 8) and in the query results for Questions 1-7.
 
 ## Data cleaning
 
 The raw data has inconsistent casing and stray whitespace in text columns
 (e.g. `'monk straps '`, `'MONK STRAPS'`, `'Monk Straps'` all refer to the
-same product). Two SQL views — `shoe_sales_clean` and `price_clean` —
-standardize this with `TRIM()` and `INITCAP()` so the join between sales
+same product). Two SQL views - `shoe_sales_clean` and `price_clean` - standardize this with `TRIM()` and `INITCAP()` so the join between sales
 and price data matches every row correctly. A data-quality check query
 confirms zero unmatched products after cleaning.
 
@@ -59,7 +58,7 @@ confirms zero unmatched products after cleaning.
 
 | File | Description |
 |---|---|
-| `full_analysis.sql` | Schema, cleaning views, all 7 business questions, and 5 advanced SQL questions — all fully commented |
+| `full_analysis.sql` | Schema, cleaning views, all 7 business questions, and 5 advanced SQL questions - all fully commented |
 | `shoe_sales.csv` | Cleaned transaction data (500 rows) |
 | `price.csv` | Product price/cost reference table (8 rows) |
 
@@ -72,20 +71,20 @@ confirms zero unmatched products after cleaning.
 
 ## Advanced SQL demonstrated
 
-- **Window functions** — 3-month rolling average revenue per product, month-over-month change, and top-3-products-per-country ranking.
-- **Indexing** — composite index on `(sale_date, product)`, verified with `EXPLAIN ANALYZE`.
-- **Stored procedure** — `refresh_monthly_kpis()`, a callable procedure that rebuilds a `monthly_kpi_summary` table on demand.
-- **Roles & privileges** — a read-only `sales_analyst` role with `SELECT`-only access via `GRANT`/`REVOKE`.
+- **Window functions** - 3-month rolling average revenue per product, month-over-month change, and top-3-products-per-country ranking.
+- **Indexing** - composite index on `(sale_date, product)`, verified with `EXPLAIN ANALYZE`.
+- **Stored procedure** - `refresh_monthly_kpis()`, a callable procedure that rebuilds a `monthly_kpi_summary` table on demand.
+- **Roles & privileges** - a read-only `sales_analyst` role with `SELECT`-only access via `GRANT`/`REVOKE`.
 
 ## Part of a larger pipeline
 
 This is stage 3 of 5. The same dataset and business questions are also
 answered in:
 
-- **Excel** — pivot-table dashboard
-- **Power BI** — DAX measures and interactive report
-- **Python** — pandas cleaning, KPI recomputation, and visualization
-- **Machine Learning** — regression and classification models testing whether order size and payment method are predictable from order attributes
+- **Excel** - pivot-table dashboard
+- **Power BI** - DAX measures and interactive report
+- **Python** - pandas cleaning, KPI recomputation, and visualization
+- **Machine Learning** - regression and classification models testing whether order size and payment method are predictable from order attributes
 
 ## Author
 
